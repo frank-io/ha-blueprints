@@ -42,6 +42,9 @@ blueprint:
             - integration: zha
               manufacturer: IKEA of Sweden
               model: TRADFRI on/off switch
+            - integration: zha
+              manufacturer: IKEA of Sweden
+              model: Remote Control N2
             - integration: mqtt
               manufacturer: IKEA
               model: RODRET wireless dimmer/power switch
